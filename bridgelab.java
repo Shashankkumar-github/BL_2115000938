@@ -34,4 +34,4 @@ public class bridgelab
 			System.out.println (res);
             sc.close();
 	}
-}
+}# BL_2115000938
